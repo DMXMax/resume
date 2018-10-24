@@ -1,19 +1,24 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Pacific Gas and Electric
+  position: Principal Cybersecurity Consultant
+  duration: Oct, 2017 &mdash; Present
+  summary: Developed a process for identifying and classifying critical systems. Lead team of five analysts in security assessment and mitigation ativities.	<ul class="resume-item-list"><li>Jupyter-based System Analytics</li><li>System Protection and Remediation Template</li><li>Mission Critical Cyber Protection</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Pacific Gas and Electric
+  position: Principal Business Risk Advisor, Gas
+  duration:  Jun, 2015 &mdash; Oct, 2017
+  summary: Provided risk consulting for critical gas projects. Integrated and Updated Risk Assessment Methodology, and provided data analystics based on Jupyter Notebooks with Python.
 
+# Director of Digital Stratgy
+- company: Pacific Gas and Electric
+  position: Principal Project Risk Advisor
+  duration:  Dec 2012 &mdash; Jun, 2015
+  summary: Lead for GridX II cyber exercise. Provided risk consultation for enterprise projects. Executed code reviews for security. Provided technical guidance for secure software implementation. Developed tracking system for projects, to provide metrics for a team of five consultants. 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: San Diego Gas and Electric
+  position: Application Risk Advisor
+  duration: Feb 2002  &mdash; Dec 2012
+  summary: Provided Risk Consultation on large-scale projects across the SDG&E enterprise. Penetration testing lead for Smart Meter efforts Developed Assessment framework for projects to track requirements and findings
