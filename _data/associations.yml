@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: AGA
+  role: Participant, Cybersecurity Task Force
+  year: 201 &mdash; 2018
+  url: https://www.aga.org/safety/security/cybersecurity/
+  summary: Participate in Cybersecurity Workshops 
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Marin Amateur Radio Socient
+  role: Participant, General Class
+  year: 2012 &mdash; 2018
+  url: http://w6sg.net/site/
+  summary: Attend Weekly Nets
