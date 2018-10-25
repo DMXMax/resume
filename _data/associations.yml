@@ -1,14 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: AGA
+- organization: American Gas Association
   role: Participant, Cybersecurity Task Force
   year: 2016 &mdash; 2018
   url: https://www.aga.org/safety/security/cybersecurity/
   summary: Participate in Cybersecurity Workshops 
 
 
-- organization: Marin Amateur Radio Socient
+- organization: Marin Amateur Radio Society
   role: Participant, General Class
   year: 2012 &mdash; 2018
   url: http://w6sg.net/site/
