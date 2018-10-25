@@ -4,7 +4,14 @@
   position: Principal Cybersecurity Consultant
   duration: Oct, 2017 &mdash; Present
   summary: Principal Consultant for a team of five in charge of identifying, assessing and remediating 
-  critical systems at PG&E.<ul class="resume-item-list"><li>Developed risk-based analytics platform for identifying critical systems</li><li>Developed and implemented gap and remediation reports for management and solution analysts</li><li>Mentored Intern as part of an application development effort to enhance PG&E's phishing program.</ul>
+  critical systems at PG&E.
+  <ul class="resume-item-list">
+  <li>Developed risk-based analytics platform for identifying critical systems</li>
+  <li>Developed security requirements for critical systems</li>
+  <li>Identified security gaps throughs security reports, Security Information and Event Management System (SIEM) reports</li>
+  <li>Performed code-analysis on custom code to identify security gaps</li>
+  <li>Developed and implemented gap and remediation reports for management and solution analysts</li>
+  <li>Mentored Intern as part of an application development effort to enhance PG&E's phishing program.</ul>
 
 # Director of Digital Stratgy
 - company: Pacific Gas and Electric
