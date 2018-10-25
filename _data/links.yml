@@ -1,5 +1,15 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://www.linkedin.com/pulse/enhancing-cyber-response-capabilities-through-stix-part-glen-clarkson/"
+  description: >
+    Article: "Enhancing Cyber Response Capabilities Through STIX", Provides an overview of STIX 2.0 and how it can be 
+    used for both internal and external cyber intelligence.
+- url: "https://www.linkedin.com/pulse/stop-securing-apis-like-people-glen-clarkson/"
+  description: >
+    Article: "Stop Treating APIs Like People", Discussed the hazards in taking a person-centric view of identity and 
+    access management when securing Application Programming Interfaces (APIs).
+- url: "https://www.linkedin.com/pulse/heat-map-always-your-friend-better-data-analytics-nist-glen-clarkson/"
+  description: >
+    Article: "The Heat Map is (Not Always) Your friend", This article discusses how certain data analysis techniques,
+    particularly around heat maps, can obscure a clear view of cyber vulnerabilities.
+    
+    
