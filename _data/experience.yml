@@ -1,5 +1,5 @@
 # Jobs
-# VP of Global Communications
+# MCCP
 - company: Pacific Gas and Electric
   position: Principal Cybersecurity Consultant
   duration: Oct, 2017 &mdash; Present
@@ -16,17 +16,35 @@
     </ul>
     
 
-# Director of Digital Stratgy
+# Business Risk Advisory
 - company: Pacific Gas and Electric
   position: Principal Business Risk Advisor, Gas
   duration:  Jun, 2015 &mdash; Oct, 2017
-  summary: Provided risk consulting for critical gas projects. Integrated and Updated Risk Assessment Methodology, and provided data analystics based on Jupyter Notebooks with Python.
-
-# Director of Digital Stratgy
+  summary: >
+    Represented the Gas line of business as part of a team of six Principal Consultants representing all major
+    business areas of the company.
+    <ul class="resume-item-list">
+    <li>Completed the most risk assessments across the enterprise, facilitiating stakeholder meetings to assess systems
+    based on the complete NIST cybersecurity framework</li>
+    <li>Implemented process to automatically aggregate assessment data from almost a hundred system assessments</li>
+    <li>Improved the analystics of collected assessment data to better make business decisions</li>
+    <li>Implemented improved data visualization tools to provide management more actionable information</li>
+    <li>Partnered with the Gas line of business to implement a gas-specific cybersecurity program</li>
+    </ul>
+    
+# Application security principal
 - company: Pacific Gas and Electric
-  position: Principal Project Risk Advisor
+  position: Principal Application Security Consultant
   duration:  Dec 2012 &mdash; Jun, 2015
-  summary: Lead for GridX II cyber exercise. Provided risk consultation for enterprise projects. Executed code reviews for security. Provided technical guidance for secure software implementation. Developed tracking system for projects, to provide metrics for a team of five consultants. 
+  summary: >
+    Provided application security program and other program management for PG&E while providing technology leadership
+    for development projects.
+    <li>Developed cloud security requiremnts and standards, along with sample code for specific languages</li>
+    <li>Developed application security requirements, standards, and training</li>
+    <li>Provided code reviews through visual inspection and tool-based analysis</li>
+    <li>Engaged in controlled penetration testing to demonstrate security flaws</li>
+    <li>PG&E Lead for the GridX II cybersecurity exercise, PG&E's first time as a full participant for GridX</li>
+    
 
 # Communications Coordinator
 - company: San Diego Gas and Electric
