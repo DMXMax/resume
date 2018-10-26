@@ -39,6 +39,7 @@
   summary: >
     Provided application security program and other program management for PG&E while providing technology leadership
     for development projects.
+    <ul class="resume-item-list">
     <li>Developed application security requirements, standards, and training</li>
     <li>Provided code reviews through visual inspection and tool-based analysis</li>
     <li>Engaged in controlled penetration testing to demonstrate security flaws</li>
@@ -48,7 +49,8 @@
     <li>Performed static application scans with Checkmarx</li>
     <li>Implemented application security specific language for IT procurement contracts</li>
     <li>Implemented and Upgraded Control Practices, Procedures, and Standards, using MITRE data,
-    NIST Cybersecurity Framework and NIST 800-53<li>
+    NIST Cybersecurity Framework and NIST 800-53</li>
+    </ul.
     
 
 # Communications Coordinator
@@ -56,10 +58,12 @@
   position: Principal Information Security Engineer
   duration: Sept 2007  &mdash; Dec 2012
   summary: >
-    Risk Consultant who provided consulting on a wide variety of security services for SDG&E's growing cybersecurity program. 
+    Risk Consultant who provided consulting on a wide variety of security services for SDG&E's growing cybersecurity program.
+    <ul class="resume-item-list">
     <li>Smart Meter Penetration Testing Lead, assessing Metrology and Home Area Network capabilities</li>
     <li>Implemented Jira in a high-security environment to protect critical security testing information</li>
     <li>Assessed Smart Meter bridge protocols for cryptographic weakness</li>
     <li>Security Consultant for multi-billion dollar transmission project in Borrego Springs</li>
     <li>Provided code reviews to software developers</li>
     <li>Performed security scans with Nessus, BurpSuite, Rational Appscan</li>
+    </ul>
