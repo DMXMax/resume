@@ -23,7 +23,9 @@ resume_contact_address:         "151 San Felipe Way, Novato"
 resume_header_contact_info:     "151 San Felipe Way, Novato • 415 622-7781 • glen.clarkson@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Security Consultant focusing on raising business enablement, risk-awareness and automated security solutions</p>"
+resume_header_intro: >
+  <p>Security Evangalist, Consultant and Practicioner, providing "Full Stack" Security, focused
+  on enhancing business enablement, raising security awareness and providing security solutions.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
