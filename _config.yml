@@ -24,8 +24,8 @@ resume_header_contact_info:     "151 San Felipe Way, Novato • 415 622-7781 •
 display_header_contact_info:    "false"
 
 resume_header_intro: >
-  <p>Security Evangalist, Consultant and Practitioner, providing "Full Stack" Security, focused
-  on enhancing business enablement, raising security awareness and providing security solutions.</p>
+  <p>Security Evangalist, Consultant and Practitioner, providing "Full Stack" Security that is focused
+  on enhancing business enablement, raising security awareness and protecting the business through secure solutions.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
