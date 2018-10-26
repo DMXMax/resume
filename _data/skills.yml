@@ -2,11 +2,11 @@
 # Programming Languages
 - skill: Security Tools
   description: >
-  QRadar, BurpSuite, Postman, Wireshark, Tenable (Nessus), Checkmarx, Rational Appscan, Fortify
+    QRadar, BurpSuite, Postman, Wireshark, Tenable (Nessus), Checkmarx, Rational Appscan, Fortify
 # Programming Languages
 - skill: Programming Languages
   description: >
-  Python, Javascript (NodeJS), Go, VBScript, Java, C++
+    Python, Javascript (NodeJS), Go, VBScript, Java, C++
 # Communications strategy
 - skill: Databases
   description: >
@@ -15,4 +15,4 @@
 # Digital content development and creation
 - skill: Digital content development and creation
   description: >
-  Create content using GIMP, Inkspace, Powerpoint, Visio
+    Create content using GIMP, Inkspace, Powerpoint, Visio
