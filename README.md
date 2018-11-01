@@ -1,4 +1,4 @@
-# Glen Ckarkson's Resume
+# Glen's Resume
 A fork of the popular resume template (https://github.com/jglovier/resume-template/), with minor enhancements to the YAML in order to improve local editing
 
 ## Docs
