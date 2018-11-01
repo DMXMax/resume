@@ -5,4 +5,4 @@ A fork of the popular resume template (https://github.com/jglovier/resume-templa
 
 Just like the original template, the layout is controlled by the root YAML with specific sections under the data folder.
 
-if you wound up here by accident looking for Glen's Resume, go to https://github.com/DMXMax/resume
+if you wound up here by accident looking for Glen's Resume, go to https://dmxmax.github.io/resume/
