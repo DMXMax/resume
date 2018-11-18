@@ -17,10 +17,10 @@ resume_title:                   "A Full Stack Cybersecurity Practitioner"
 resume_contact_email:           "glen.clarkson@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "415 622-7781"
+#resume_contact_telephone:       "415 622-7781"
 resume_contact_address:         "151 San Felipe Way, Novato"
 
-resume_header_contact_info:     "151 San Felipe Way, Novato • 415 622-7781 • glen.clarkson@gmail.com"
+resume_header_contact_info:     "Novato, CA• glen.clarkson@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: >
