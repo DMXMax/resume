@@ -7,11 +7,11 @@
     Principal Consultant for a team of five in charge of identifying, assessing and remediating 
     critical systems at PG&E.
     <ul class="resume-item-list">
-    <li>Developed risk-based data analytics platform for identifying critical systems</li>
-    <li>Developed security requirements for critical systems</li>
+    <li>Developed risk-based data analytics platform for identifying critical systems.</li>
+    <li>Developed security requirements for critical systems.</li>
     <li>Identified security gaps using QRadar, Tenable and Tripwire applications.</li>
-    <li>Performed code-analysis on custom code to identify security gaps</li>
-    <li>Developed and implemented gap and remediation reports for management and solution analysts</li>
+    <li>Performed code-analysis on custom code to identify security gaps.</li>
+    <li>Developed and implemented gap and remediation reports for management and solution analysts.</li>
     <li>Mentored Intern as part of an application development effort to enhance PG&E's phishing program.</li>
     </ul>
     
@@ -25,11 +25,11 @@
     business areas of the company.
     <ul class="resume-item-list">
     <li>Completed the most risk assessments across the enterprise, facilitating stakeholder meetings to assess systems
-    based on the complete NIST cybersecurity framework</li>
-    <li>Implemented process to automatically aggregate assessment data from almost a hundred system assessments</li>
-    <li>Improved the analytics of collected assessment data to better make business decisions</li>
-    <li>Implemented improved data visualization tools to provide management more actionable information</li>
-    <li>Partnered with the Gas line of business to implement a gas-specific cybersecurity program</li>
+    based on the complete NIST Cybersecurity Framework.</li>
+    <li>Implemented process to automatically aggregate assessment data from almost a hundred system assessments.</li>
+    <li>Improved the analytics of collected assessment data to better make business decisions.</li>
+    <li>Implemented improved data visualization tools to provide management more actionable information.</li>
+    <li>Partnered with the Gas line of business to implement a gas-specific cybersecurity program.</li>
     </ul>
     
 # Application security principal
@@ -40,17 +40,17 @@
     Provided application security program and other program management for PG&E while providing technology leadership
     for development projects.
     <ul class="resume-item-list">
-    <li>Developed application security requirements, standards, and training</li>
-    <li>Provided code reviews through visual inspection and tool-based analysis</li>
-    <li>Engaged in controlled penetration testing to demonstrate security flaws</li>
-    <li>PG&E Lead for the GridX II cybersecurity exercise, PG&E's first time as a full participant for GridX</li>
-    <li>Member of the Emergency Operations Center team</li>
-    <li>Assist with forensic code analysis and risk analysis for data loss events</li>
-    <li>Performed static application scans with Checkmarx</li>
-    <li>Implemented application security specific language for IT procurement contracts</li>
+    <li>Developed application security requirements, standards, and training.</li>
+    <li>Provided code reviews through visual inspection and tool-based analysis.</li>
+    <li>Engaged in controlled penetration testing to demonstrate security flaws.</li>
+    <li>PG&E Lead for the GridX II cybersecurity exercise, PG&E's first time as a full participant for GridX.</li>
+    <li>Member of the Emergency Operations Center team.</li>
+    <li>Assist with forensic code analysis and risk analysis for data loss events.</li>
+    <li>Performed static application scans with Checkmarx.</li>
+    <li>Implemented application security specific language for IT procurement contracts.</li>
     <li>Implemented and Upgraded Control Practices, Procedures, and Standards, using MITRE data,
-    NIST Cybersecurity Framework and NIST 800-53</li>
-    </ul.
+    NIST Cybersecurity Framework and NIST 800-53.</li>
+    </ul>
     
 
 # Security Engineer
@@ -60,12 +60,12 @@
   summary: >
     Risk Consultant who provided consulting on a wide variety of security services for SDG&E's growing cybersecurity program.
     <ul class="resume-item-list">
-    <li>Smart Meter Penetration Testing Lead, assessing Metrology and Home Area Network capabilities</li>
-    <li>Implemented Jira in a high-security environment to protect critical security testing information</li>
-    <li>Assessed Smart Meter bridge protocols for cryptographic weakness</li>
-    <li>Security Consultant for multi-billion dollar transmission project in Borrego Springs</li>
-    <li>Provided code reviews to software developers</li>
-    <li>Performed security scans with Nessus, BurpSuite, Rational Appscan</li>
+    <li>Smart Meter penetration testing lead, assessing Metrology and Home Area Network capabilities.</li>
+    <li>Implemented Jira in a high-security environment to protect critical security testing information.</li>
+    <li>Assessed Smart Meter bridge protocols for cryptographic weakness.</li>
+    <li>Security Consultant for multi-billion dollar transmission project in Borrego Springs.</li>
+    <li>Provided code reviews to software developers.</li>
+    <li>Performed security scans with Nessus, BurpSuite, Rational Appscan.</li>
     </ul>
 # Communications Coordinator
 - company: San Diego Gas and Electric
@@ -75,7 +75,7 @@
     Application Implementation
     <ul class="resume-item-list">
     <li>Elicited business requirements</li>
-    <li>Implemented full stack solutions in Microsoft .NET and Microsoft SQL Server</li>
-    <li>Enhanced mobile applications written in C++</li>
-    <li>Reviewed and implemented improvements in vendor supplied java code </li>
+    <li>Implemented full stack solutions in Microsoft .NET and Microsoft SQL Server.</li>
+    <li>Enhanced mobile applications written in C++ and C#.</li>
+    <li>Reviewed and implemented improvements in vendor supplied java code.</li>
     </ul>
